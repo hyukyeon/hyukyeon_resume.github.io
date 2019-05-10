@@ -1,49 +1,47 @@
+* `_config.yml`: You must change `baseurl`and `url`.
+  * Make sure to restart the server after you update `_config.yml`.
+* `_data/resume.yml`: You must change `photo`, `name` and `url`. Also, you must set `demo` to `false` to hide everything but your resume.
+* `CNAME`: Change this to host ResumeCards on a custom domain.
+* `README.md`: Write your own README!
+* `_includes/script.html`: Extra stuff before the `</body>` tag. Change or remove the default Google Analytics code.
+* `_includes/nav.html`: Modify or remove your contact links.
 
-# Vitae
+### Customize the Theme
 
-[![Build Status](https://secure.travis-ci.org/jekyller/vitae.png?branch=gh-pages)](http://travis-ci.org/jekyller/vitae)
+To customize the color theme, edit the `color` section of `_data/resume.yml`.
 
-Personal homepage (curriculum vitae or resume) based on [João's](https://github.com/joaomoreno/resume).
-Vitae is built with [skeleton](http://getskeleton.com/), powered by [Jekyll](http://jekyllrb.com/) and freely
-hosted in [Github pages](https://pages.github.com/).
+#### Red
+![](http://cl.ly/image/0Q442g393E0O/sample_red.png)
+
+#### Pink
+![](http://cl.ly/image/2r0d3C201Q2y/sample_pink.png)
+
+#### Brown
+![](http://cl.ly/image/1A3p0v2n2I2O/sample_brown.png)
+
+#### Blue
+![](http://cl.ly/image/102r3e1y010w/sample_blue.png)
+
+#### Purple
+![](http://cl.ly/image/130Y2y1X1228/sample_purple.png)
+
+#### Teal
+![](http://cl.ly/image/3L042k3L3i2m/sample_teal.png)
+
+#### Green
+![](http://cl.ly/image/031u3a070V3f/sample_green.png)
+
+## :briefcase: Author & License :briefcase:
+
+Elle Kasai
+
+- [Website](http://ellekasai.com/about)
+- [Twitter](http://twitter.com/ellekasai)
+
+[MIT License](http://ellekasai.mit-license.org).
+
+## :briefcase: Special Thanks :briefcase:
+
+* [Shu Uesugi](http://github.com/chibicode) - for the guidance on this project.
 
 
-## View the live demo
-
-[Vitae Live Demo](https://jekyller.github.io/vitae)
-
-
-## Screenshots
-
-![resume page](https://raw.githubusercontent.com/jekyller/vitae/gh-pages/assets/images/vitae_screen.png)
-
-
-## How to use it
-
-Simply clone/fork this repository, and then run `jekyll serve` inside the directory.
-Edit the site attributes in *_config.yml* and edit the various entries in *_includes/*.
-
-## Issues and contributing
-
-I have tested this install with Ruby v2.4.2p198 (Mac OS RVM) and Jekyll v3.6.2. If you run into any problems please log them on the [issue tracker](https://github.com/jekyller/vitae/issues).
-
-Feel free pull-request your patches and fixes.
-
-
-## Thanks
-
-A lot of the work had been already done by the Joao. Many thanks to him :smile:
-
-Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/).
-
-
-## Copyright & License
-
-Copyright (C) 2015 - Released under the MIT License.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
