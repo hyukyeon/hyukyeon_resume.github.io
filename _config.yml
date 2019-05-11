@@ -1,9 +1,60 @@
-baseurl: "/resumecards" # The subpath of your site. Use "" if you're hosting a blog at the root level.
-url: "http://localhost:4000/resumecards/" # the base hostname & protocol for your site
+# Site
+repository: https://hyukyeon.github.io/
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
-exclude:
-  - "README.md"
-  - "CHANGELOG.md"
-  - "CNAME"
-  - "Gemfile"
-  - "Gemfile.lock"
+# Personal info
+name: Hyukyeon Lee
+title: Wireless Communications PHY & Modem SoC Researcher
+email: hyukyeon@yonsei.ac.kr
+phone: +82-10-5312-2177
+website: https://hyukyeon.github.io/
+
+# Social links
+github_username: hyukyeon
+# dribbble_username: jekyll
+facebook_username: hyukyeon
+# flickr_username: jekyll
+linkedin_username: hyukyeon
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+ I am currently pursuing the **M.S. & Ph.D degree** with the Department of **Electrical and Electronic Engineering** in **Yonsei University**, Seoul, Korea (Advisior : Prof. Jaeseok Kim). My research intersets include **wireless communications PHY** and **next-generation modem SoC architecture**.
+
+  **RESEARCH INTEREST**
+    - Wireless Communications PHY (5G/802.11ad/802.11ax)
+    - High-Dimensional MIMO Signal Processing
+    - Compressed Sensing for mmWave Sparse Channel Estimation
+    - Hybrid Precoding & Low-Resolution ADC for mmWave Systems
+    - Next-Generation Modem SoC Architecture
+
+# Projects Section
+projects_title: Research Projects & Publications
+
+# Experience Section
+experience_title: Experience & Awards 
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

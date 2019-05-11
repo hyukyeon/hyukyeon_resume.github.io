@@ -1,0 +1,22 @@
+# Education Template
+ - name: Yonsei University
+   dates: 2010.03 ~ 2014.02
+   qualification: Bachelor of Science (B.S.)
+   quote: >
+    Seoul, Korea
+   description: | # this will include new lines to allow paragraphs
+    Electrical and Electronic Engineering
+ - name: Yonsei University
+   dates: 2014.03 ~ 2016.02
+   qualification: Master of Science (M.S.)(Combined M.S./Ph.D.)
+   quote: >
+    Seoul, Korea
+   description: | # this will include new lines to allow paragraphs
+    Electrical and Electronic Engineering
+ - name: Yonsei University
+   dates: 2016.03 ~
+   qualification: Doctor of Philosophy (Ph.D.)(Combined M.S./Ph.D.)
+   quote: >
+    Seoul, Korea
+   description: | # this will include new lines to allow paragraphs
+    Electrical and Electronic Engineering
