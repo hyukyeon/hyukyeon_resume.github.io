@@ -1,60 +1,13 @@
 # Project template
-- name: Research Projects
-  link: 
-  github: 
-  quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
-
-- name: Journal
+- name: Samsung Electronics 
   quote: >
   description: | # this will include new lines to allow paragraphs
-          **IEEE Transactions on Circuits and Systems II**
-          - **Hyukyeon Lee**, Kyungmook Oh, Minjung Cho, Yunseok Jang, and Jaeseok Kim, "Efficient Low-Latency Implementation of CORDIC-Based Sorted QR Decomposition for Multi-Gbps MIMO Systems", *IEEE Transactions on Circuits and Systems II*, Vol. 65, Issue 10, pp. 1375-1779, October, 2018
-          
-          **Eurasip Journal on Wireless Communications and Networking**
-          - Hyunsub Kim, **Hyukyeon Lee**, Jihye Koo, and Jaeseok Kim, "Low-Complexity Lattice Reduction Algorithm for MIMO Detectors with Tree Searching", *Eurasip Journal on Wireless Communications and Networking*, Vol. 2017, No. 17, pp.1-11, January, 2017
+          **Development of High-Efficiency and High-Performance Signal Processing for mmWave System**
+          - *2017.07 ~ 2019.06*
+          - In this project, we study the high efficiency and high performance algorithms targeting ***5G mmWave systems***. In the first year, we proposed ***a bit allocation optimization algorithm for low-resolution ADC considering power efficiency***. In the second year, ***null-space projection-based precoding for hybrid MU-MIMO*** was proposed. ***A low-latency, high-performance compressed sensing-based channel estimation scheme*** for the mmwave sparse channel environment has also been proposed.
 
-          **IEEE Communications Letters**
-          - Hyunsub Kim, Minjoon Kim, **Hyukyeon Lee**, and Jaeseok Kim, "Lattice-Reduction-Aided Partial Marginalization for Soft Output MIMO Detector with Fixed and Reduced Complexity", *IEEE Communications Letters*, Vol. 20, No. 7, pp. 1297-1300, July, 2016
+          **Development of Modulation Method and Algorithm for Next Generation Wireless Communications**
+          - *2014.01 ~ 2016.06*
+          - In this project, a high-performance low-complexity transmission / reception algorithm suitable for hardware implementation in SU-MIMO and MU-MIMO systems targeting ***IEEE 802.11ac standard*** was developed. In the MU-MIMO environment, we have developed ***a detection algorithm that accurately removes interference from other STAs*** which outperforms the conventional interference-whitening method. In the next year, we have developed ***a hard decision and soft decision algorithm based on Lattice Reduction*** with fixed complexity for detecting low complexity of multiple streams. In addition, the early-termination formula is derived to allow low-power lattice reduction to be performed.
 
-          **IEEE Communications Letters**
-          - Hyunsub Kim, Jangyong Park, **Hyukyeon Lee**, and Jaeseok Kim, "Near-ML MIMO Detection Algorithm with LR-Aided Fixed-Complexity Tree Searching", *IEEE Communications Letters*, Vol. 18, No. 12, pp. 2221-2224, December, 2014
-
-
-- name: Conference
-  quote: >
-  description: | # this will include new lines to allow paragraphs
-         **IEEE Vehicular Technology Conference (VTC) 2018**
-         - Minjung Cho, **Hyukyeon Lee**, Kyoungmook Oh, and Jaeseok Kim, "Low Complexity Hybrid Precoding Using Beam Steering for mmWave MIMO Systems", *VTC2018-Fall*, August, 2018
-
-         **Radioelektronika 2018**
-         - **Hyukyeon Lee**, Hanjun Kim, Minjung Cho, and Jaeseok Kim, "Low-Latency Implementation of CORDIC-Based Sorted QR Decomposition for High-Speed MIMO-OFDM System", *Radioelektronika 2018*, April, 2018
-
-         **International SoC Design Conference (ISOCC) 2017**
-         - **Hyukyeon Lee**, Minjoon Kim, Hyunsub Kim, and Jaeseok Kim, "A 65nm CMOS Implementation of MIMO PHY Demodulator for IEEE 802.11 WLAN System", *ISOCC 2017 (Chip Design Contest)*, November, 2017
-
-         **International Conference on Telecommunications and Signal Processing (TSP) 2017**
-         - **Hyukyeon Lee**, Hyunsub Kim, and Jaeseok Kim, "Near-ML Lattice Reduction-aided Detection Scheme for Low Complexity MIMO-OFDM Systems", *TSP 2017*, July, 2017
-           
-         **International Conference on Electronics, Information, and Communication (ICEIC) 2017**
-         - Sergelren Kwon, **Hyukyeon Lee**, and Jaeseok Kim, "An Effective Synchronization method for Impulse Radio Ultra-wideband System", *ICEIC 2017*, January, 2017
-         
-         **IEEE TENCON 2016**
-         - Jihye Koo, Hyunsub Kim, **Hyukyeon Lee**, Hanjun Kim, and Jaeseok Kim, "Low-Complexity Lattice Reduction Aided MIMO Detection for Hardware Implementation", *TENCON 2016*, November, 2016
-
-         **International Conference on Information Networking (ICOIN) 2016**
-         - **Hyukyeon Lee**, Hyunsub Kim, Minjoon Kim, and Jaeseok Kim, "A Fast Convergence LLL algorithm with Fixed-Complexity for SIC-based MIMO Detection", *ICOIN 2016*, January, 2016
-  
-         **International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC) 2015**
-         - **Hyukyeon Lee**, Hyunsub Kim, Minjoon Kim, and Jaeseok Kim, "Fixed-Complexity Even-Odd Sequence Lattice Reduction Algorithm for Large MIMO Systems", *ITC-CSCC 2015*, June, 2015
-
-         **IEEE International Symposium on Local and Metropolitan Area Networks (LANMAN) 2015**
-         - Hyunsub Kim, **Hyukyeon Lee**, and Jaeseok Kim, "MMSE-Based Lattice-Reduction-Aided Fixed-Complexity Sphere Decoder for Low-Complexity Near-ML MIMO Detection", *LANMAN 2015*, April, 2015
-         
-- name: Patent
-  quote: >
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
-
+ 

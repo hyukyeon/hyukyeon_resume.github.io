@@ -27,23 +27,32 @@ about_content: | # this will include new lines to allow paragraphs
     - High-Dimensional MIMO Signal Processing
     - Compressed Sensing for mmWave Sparse Channel Estimation
     - Hybrid Precoding & Low-Resolution ADC for mmWave Systems
-    - Next-Generation Modem SoC Architecture
+    - 5G/Wifi Modem SoC Architecture
 
 # Projects Section
-projects_title: Research Projects & Publications
+projects_title: Research Projects 
 
 # Experience Section
 experience_title: Experience & Awards 
 
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+education_title: Publications
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+more_title: Skills & Interests
+more_content: |  
+               **Experienced Skills** 
+               - Wireless Communication PHY Signal Processing (MATLAB/Python)
+               - Linux Programming (Shell Script)
+               - Verilog HDL
+               - ASIC Front-end Design Flow (Design Compiler, PrimeTime, ModelSim, VCS)
+               - ASIC Back-end Design Flow (IC Compiler) 
+               - FPGA Design (Xilinx ISE, Vivado)
+  
+               **Current Research Interests**
+               - User Schedulling in mmWave low-resolution ADCs systems
+               - Sparse channel estimation in frequency-selective mmWave hybird systems 
+               - Lattice reduction-aided massive MIMO detection 
 
 # Footer
 footer_show_references: true

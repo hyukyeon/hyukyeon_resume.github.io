@@ -1,26 +1,45 @@
 # Experience template
+- company: Education
+  job_title: Yonsei University
+  dates: 2010 ~ present
+  quote: >
+  description: |
+          - **Ph.D.** (Combined Ph.D./M.S.) - *2016.03 ~ 2020.02*(expected), Electrical and Electronic Engineering, Yonsei University
+          - **M.S.** (Combined Ph.D./M.S.) - *2014.03 ~ 2016.02*, Electrical and Electronic Engineering, Yonsei University
+          - **B.S.**, - *2010.03 ~ 2014.02*, Electrical and Electronic Engineering, Yonsei University
+
+
 - company: Teaching Experience
   #link: Link to company (optional)
   job_title: Undergraduate & Graduate
   dates: 2014 ~ present
   quote: >
   description: | # this will include new lines to allow paragraphs
-          - 2014~2017, Teaching Assistant (T.A.), EEE2040 : Digital Logic Circuits, Yonsei University
-          - 2015~2017, Teaching Assistant (T.A.), EEE3544 : Digital System Design, Yonsei University
-          - 2017, Teaching Assistant (T.A.), EEE6611 : System Design and Applications Lab, Yonsei University
-          - 2018, Teaching Assistant (T.A.), EEE6668 : Embedded S/W Lab, Yonsei University
-          - 2018~2019, Teaching Assistant (T.A.), EEE5608 : IC CAD Lab, Yonsei University
+          - *2014~2017*, Teaching Assistant (T.A.), EEE2040 : **Digital Logic Circuits**, Yonsei University
+          - *2015~2017*, Teaching Assistant (T.A.), EEE3544 : **Digital System Design**, Yonsei University
+          - *2017*, Teaching Assistant (T.A.), EEE6611 : **System Design and Applications Lab**, Yonsei University
+          - *2018*, Teaching Assistant (T.A.), EEE6668 : **Embedded S/W Lab**, Yonsei University
+          - *2018~2019*, Teaching Assistant (T.A.), EEE5608 : **IC CAD Lab**, Yonsei University
 
+- company : Reviewer for Jornals
+  job_title : SCI/SCIE International Journals
+  dates: 2015 ~ present
+  quote: >
+  description : |
+          - **IEEE Transactions on Vehicular Technology**
+          - **Physical Communications**
+          - **China Communications**
+          
 - company: Awards
   #link: Link to company (optional)
   job_title: Awards & Scholarship
   dates: 2007 ~ present
   quote: >
   description: | # this will include new lines to allow paragraphs
-          - 
-          - 2018, Teaching Assistant (T.A.), EEE6668 : Embedded S/W Lab, Yonsei University
-          - 2018~2019, Teaching Assistant (T.A.), EEE5608 : IC CAD Lab, Yonsei University
-          - Honor Scholarship, fasdf 
+          - *2018 ~ present*, Graduate Scholarship Program, Samsung Electronics, Co., Ltd.
+          - *2014 ~ present*, Graduate School of Yonsei University Research Scholarship, Yonsei University
+          - *2010 ~ 2012*, National Science and Engineering Scholarship, KOSAF
+          - *2007 ~ 2009*, Honor Scholarship, Dong-A Book's Scholarship Foundation
 
 
 
