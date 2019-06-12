@@ -10,4 +10,22 @@
           - *2014.01 ~ 2016.06*
           - In this project, a high-performance low-complexity transmission / reception algorithm suitable for hardware implementation in SU-MIMO and MU-MIMO systems targeting ***IEEE 802.11ac standard*** was developed. In the MU-MIMO environment, we have developed ***a detection algorithm that accurately removes interference from other STAs*** which outperforms the conventional interference-whitening method. In the next year, we have developed ***a hard decision and soft decision algorithm based on Lattice Reduction*** with fixed complexity for detecting low complexity of multiple streams. In addition, the early-termination formula is derived to allow low-power lattice reduction to be performed.
 
- 
+- name: Ministry of Science, ICT and Future Planning (Korea)
+  quote: >
+  description: |
+          **Research on SoC design of drone communication protocol for real-time transmission of HD video**
+          - *2015.05 ~ 2018.04*
+          - In this project, we study PHY protocol and core algorithm for ***real time HD video transmission of high speed moving drones***, and have conducted hardware optimization and design study. For real - time video transmission from the drones to the AP, we propose ***an enhanced uplink protocol structure*** and an enhanced C2 downlink for stable dron control. ***Compressed sensing-based channel estimation and pilot pattern generation algorithm*** is proposed to compensate fast mobile channel environment.
+
+- name: Ministry of Trade, Industry and Energy (Korea)
+  quote: >
+  description: |
+          **Design of 2 X 2 MIMO-OFDM Processor for IoT Service**
+          - *2015.07 ~ 2016.06*
+          - In this project, ***2 X 2 MIMO-OFDM processor with maximum 270Mbps targeting IoT service*** is implemented in ***Samsung 65nm CMOS process***. We have proposed ***a low complexity MIMO decoding algorithm and an improved channel estimation algorithm based on a sorted QRD*** for 2 × 2 MIMO detection as a core block. In order to realize low area and low complexity suitable for IoT terminal application, ***improved implementation such as interleaver, MAC interface, and channel estimation block*** occupying a large area in the existing IEEE 802.11n WLAN standard is applied.
+
+          **Development of high precision (0.5m) indoor positioning algorithm based on BLE RSSI**
+          - 2017.03 ~ 2017.09
+          - In this project, we have carried out a study to improve the accuracy of BLE - based indoor positioning technology with error of more than several meters. In order to improve the accuracy of indoor positioning, we developed ***an improved high precision indoor positioning technology based on Extended Kalman Filter***. In order to maximize the positioning accuracy by using only one - dimensional beacon RSSI information, we applied ***the improved distance estimation model using the triangulation method***, assuming that only a single beacon at the station and station should be used. We also completed development of an Android application that enables real-time indoor location tracking using BLE Beacon information.
+
+
